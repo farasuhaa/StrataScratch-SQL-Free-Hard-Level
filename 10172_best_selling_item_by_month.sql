@@ -1,7 +1,7 @@
 -- =========================================================
 -- Title: Best Selling Item
 -- Language: PostgreSQL
--- Difficulty: Medium
+-- Difficulty: Hard
 -- Source: StrataScratch
 -- ID: 10172
 -- =========================================================
